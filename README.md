@@ -19,4 +19,5 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://discord.gg/Uf2kA8q"><img src="https://img.icons8.com/color/100/000000/discord--v2.png"/>
+<a href="https://discord.gg/Uf2kA8q"
+target="_blank"><img src="https://img.icons8.com/color/100/000000/discord--v2.png"/>
