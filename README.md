@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" width="30px">, I'm Kraots</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Kraots/Kraots/master/wave.gif" width="30px">, I'm Kraots</h1>
 
 
 ## 🙋‍♂️ About Me
