@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/Kraots/Kraots/master/VHC.png" height="175px"/></a>
+<a href="#"><img width="50%" height="50%" src="https://raw.githubusercontent.com/Kraots/Kraots/master/VHC.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Kraots/Kraots/master/wave.gif" width="30px">, I'm Kraots</h1>
 
