@@ -4,7 +4,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 15 y/o
+- 16 y/o
 - Male
 - Europe
 - Very good at python
