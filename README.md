@@ -20,4 +20,4 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://discord.gg/NUEGQf4gHD" target="_blank"><img src="https://img.icons8.com/color/100/000000/discord--v2.png"/> </a>
+<a href="https://discord.gg/ukiyolove" target="_blank"><img src="https://img.icons8.com/color/100/000000/discord--v2.png"/> </a>
